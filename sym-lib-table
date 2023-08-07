@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EasyCT")(type "KiCad")(uri "${KIPRJMOD}/lib/EasyCT.kicad_sym")(options "")(descr ""))
+  (lib (name "EasyCT_Vendored")(type "KiCad")(uri "${KIPRJMOD}/lib/EasyCT_Vendored.kicad_sym")(options "")(descr ""))
+)
